@@ -37,4 +37,9 @@ Designed and developed an interactive Power BI dashboard to analyze and visualiz
 - Data Analysis
 - DAX
 - Power Query
+![Homepage](https://github.com/MinaJoseph01/Zomato_ResturantSales_dashboard/assets/142174893/53961abb-a978-4529-93af-0102b84ba880)
+![overview](https://github.com/MinaJoseph01/Zomato_ResturantSales_dashboard/assets/142174893/ea91df38-1dca-4aac-a54a-8e76fe158130)
+![User performance](https://github.com/MinaJoseph01/Zomato_ResturantSales_dashboard/assets/142174893/974a16df-2f18-4c6e-ab7b-22f70a246035)
+
+![City operformance](https://github.com/MinaJoseph01/Zomato_ResturantSales_dashboard/assets/142174893/4e01221e-e929-45e3-9d8d-a66dfe261d0a)
 
